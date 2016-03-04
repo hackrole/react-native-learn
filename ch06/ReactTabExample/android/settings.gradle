@@ -1,0 +1,3 @@
+rootProject.name = 'ReactTabExample'
+
+include ':app'
